@@ -1,7 +1,7 @@
 # DigitalSysBroadEvaluation
 Broad Evaluation for Adoption and Use of Digital Systems
 
-Coded by Eugene Ch'ng (www.complexity.io)
+Coded by Eugene Ch'ng
 http://www.github.com/drecuk
 
 The data and R scripts code in this repository were used for evaluating the adoption and use of digital systems published in:
